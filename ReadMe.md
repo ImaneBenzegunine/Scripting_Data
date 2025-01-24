@@ -9,9 +9,9 @@ Includes reusable methods and structures that can be adapted to other websites i
 Carvago.py
 __________
 This file is specifically for extracting the following data from the Carvago website:
-  -Nom
-  -Modèle:
-  -Prix
+  - Nom
+  - Modèle:
+  - Prix
 -Kilométrage
 -Transmission
 -Année
