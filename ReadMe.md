@@ -12,14 +12,14 @@ This file is specifically for extracting the following data from the Carvago web
   - Nom
   - Modèle:
   - Prix
--Kilométrage
--Transmission
--Année
--Carburant
--Puissance
+  - Kilométrage
+  - Transmission
+  - Année
+  - Carburant
+  - Puissance
 
 
 Excluded data: "because it was not available on Carvago"
--Etat de la voiture
--Options de la voiture
--Vendeur de la voiture
+- Etat de la voiture
+- Options de la voiture
+- Vendeur de la voiture
